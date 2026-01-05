@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Mota</h1>
-<h3 align="center">I'm an technologist in systems analysis and development and I aspire to be a data scientist</h3>
+<h3 align="center">I'm an technologist in systems analysis and development</h3>
 
-- 🌱 I’m currently learning **Data analysis**
 
 - 📫 How to reach me **4thpedoro@gmail.com**
 
